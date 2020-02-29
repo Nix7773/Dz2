@@ -44,6 +44,7 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Worker.cs" />
     <Compile Include="Extensions\RandomExtensions.cs" />
     <Compile Include="Gamer.cs" />
     <Compile Include="ICloneable.cs" />
